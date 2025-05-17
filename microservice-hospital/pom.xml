@@ -17,7 +17,7 @@
   <packaging>pom</packaging><!-- esto -->
 
   <modules>
-    <module>gateway-microservice</module>
+    <module>gateway-microservices</module>
   </modules>
   <url>http://www.example.com</url>
 
@@ -31,9 +31,11 @@
     <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
-      <version>1.18.22</version>
+      
     </dependency>
   </dependencies>
+
+
 
   <build>
     <pluginManagement>
