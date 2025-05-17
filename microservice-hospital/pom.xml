@@ -18,6 +18,8 @@
 
   <modules>
     <module>gateway-microservices</module>
+    <module>eureka-microservice</module>
+    <module>config-microservice</module>
   </modules>
   <url>http://www.example.com</url>
 
